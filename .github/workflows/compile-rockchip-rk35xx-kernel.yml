@@ -87,6 +87,15 @@ on:
           - -autumn-harvesting
           - -winter-storing
           - -yourname
+          - -r1-bsp
+          - -r2-bsp
+          - -r3-bsp
+          - -r4-bsp
+          - -r5-bsp
+          - -r6-bsp
+          - -r7-bsp
+          - -r8-bsp
+          - -r9-bsp
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
